@@ -41,10 +41,10 @@
 1. open repo location and copy
 1. create a folder where you want (desktop)
 1. open folder, open gitbash here
-1. now write - git clone "https://github.com/Priyanka0714/Data-Structure-Algorithms"
+1. now write - git clone "https://github.com/username/Data-Structure-Algorithms"
 ## How to push changes using gitbash
 1. open git in folder location you created
-1. HP@priyanka-LAPTOP-5OO66GPO MINGW64 ~/Desktop/j-dsa
+1. HP-LAPTOP-5dfghj abc ~/Desktop/j-dsa
 1. $ cd (reponame)
 1. cd Data-Structure-Algorithms (mycase)
 1. ls (command to see what is inside folder)
