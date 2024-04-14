@@ -44,21 +44,19 @@
 1. now write - git clone "https://github.com/Priyanka0714/Data-Structure-Algorithms"
 ## How to push changes using gitbash
 1. open git in folder location you created
-HP@priyanka-LAPTOP-5OO66GPO MINGW64 ~/Desktop/j-dsa
-$ cd (reponame)
-cd Data-Structure-Algorithms (mycase)
-ls (command to see what is inside folder)
-git status (to see status)
-git add .
-git commit -m "message"
-git push origin main
+1. HP@priyanka-LAPTOP-5OO66GPO MINGW64 ~/Desktop/j-dsa
+1. $ cd (reponame)
+1. cd Data-Structure-Algorithms (mycase)
+1. ls (command to see what is inside folder)
+1. git status (to see status)
+1. git add .
+1. git commit -m "message"
+1. git push origin main
 
 ## PUSH CODE VIA VSCODE
-
-Go to source control icon
-add files(changes) using + 
-now add some message
-and press commit button
+1. Go to source control icon
+1. add files(changes) using + 
+1. now add some message and press commit button
 
 
 
