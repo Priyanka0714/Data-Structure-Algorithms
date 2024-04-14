@@ -38,15 +38,12 @@
 
 ## How to clone a git Repo and Push code Via GitLab
 
-open repo location and copy
-create a folder where you want (desktop)
-open folder
-open gitbash here
-now write - 
-git clone "https://github.com/Priyanka0714/Data-Structure-Algorithms"
-
-How to push changes using gitbash
-open git in folder location you created
+1. open repo location and copy
+1. create a folder where you want (desktop)
+1. open folder, open gitbash here
+1. now write - git clone "https://github.com/Priyanka0714/Data-Structure-Algorithms"
+## How to push changes using gitbash
+1. open git in folder location you created
 HP@priyanka-LAPTOP-5OO66GPO MINGW64 ~/Desktop/j-dsa
 $ cd (reponame)
 cd Data-Structure-Algorithms (mycase)
