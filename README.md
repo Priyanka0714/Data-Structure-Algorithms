@@ -36,6 +36,33 @@
 1. ### Tries
 1. ### Backtracking
 
+## How to clone a git Repo and Push code Via GitLab
+
+open repo location and copy
+create a folder where you want (desktop)
+open folder
+open gitbash here
+now write - 
+git clone "https://github.com/Priyanka0714/Data-Structure-Algorithms"
+
+How to push changes using gitbash
+open git in folder location you created
+HP@priyanka-LAPTOP-5OO66GPO MINGW64 ~/Desktop/j-dsa
+$ cd (reponame)
+cd Data-Structure-Algorithms (mycase)
+ls (command to see what is inside folder)
+git status (to see status)
+git add .
+git commit -m "message"
+git push origin main
+
+## PUSH CODE VIA VSCODE
+
+Go to source control icon
+add files(changes) using + 
+now add some message
+and press commit button
+
 
 
 
