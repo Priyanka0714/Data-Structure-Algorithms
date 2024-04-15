@@ -58,7 +58,10 @@
 1. add files(changes) using + 
 1. now add some message and press commit button
 
-
+##PUSH First VSCode Project to git
+1. create a new repo on git and create a new folder in local and open gitbash in location
+1. Git clone repo
+1. open repo in vscode, create a new react app in repo location, now commit push
 
 
 
