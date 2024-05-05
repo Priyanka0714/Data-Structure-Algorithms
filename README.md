@@ -3,6 +3,7 @@
 - Add numbered list(1. item1, 1. item2 ....) | bullets (-, *)
 - Add headings( # > ## > ###....) before items.
 - Add link wrap text in [] bracket and link in ()
+- Add link using in[] brackt text to show in () url like [hello](url)
 
 ## Places to Find Interview Experiences
 1. [Geeksforgeeks](https://www.geeksforgeeks.org/company-interview-corner/?ref=ghm)
