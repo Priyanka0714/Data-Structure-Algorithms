@@ -73,5 +73,6 @@ Remove 5 repeat step 3 , q= 10,6 , ignore 1 visited before
 Remove 10 repeat step 3 , q= 6 , ignore 2 visited before
 Remove 6 repeat step 3 , q= 9, ignore 3,4 visited before
 Remove 9 repeat step 3 , q=  empty
-[Shortest distance from source](https://www.hackerearth.com/problem/algorithm/shortest-distance-from-source/submissions/)
+##
+1.[Shortest distance from source](https://www.hackerearth.com/problem/algorithm/shortest-distance-from-source/submissions/)
 **/
