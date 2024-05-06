@@ -12,7 +12,9 @@
 
 ## DSA Topics
 
-1. ### Hashing   
+1. ### Hashing
+Hashing is a technique of mapping keys, and values into the hash table by using a hash function. 
+It is done for faster access to elements.Store data.  
    1. Frequency of an element in an array(sorted array) [Solution](https://ide.geeksforgeeks.org/online-java-compiler/8da766d7-211e-4225-b2ec-f3afd1eb5c4b)
    2. [Majority Element(Imp)](https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150)
    3. [Target sum (a+b = x)](https://leetcode.com/problems/two-sum/submissions/)
@@ -23,11 +25,11 @@
    8. [ Largest subarray with 0 sum ](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
    9. [Count no of pairs with abs diff k](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/submissions/)
       
-2. ### Two pointer
+3. ### Two pointer
    1. hjk
    1. hjjjk
-3. ### Sliding Window
-4. ### String
+4. ### Sliding Window
+5. ### String
 1. ### Searching
 1. ### Sorting
 1. ### STL
