@@ -1,5 +1,6 @@
 # Data-Structure-Algorithms
-
+1. Hashing, Two pointer, SW, String, Searching, Sorting, STL, Stack, Queue, LL, Recursion, Greedy, 
+1. Binary tree, BST, DP, Heap, Graph, Bit manipulation, Tries, Backtracking
 - Add numbered list(1. item1, 1. item2 ....) | bullets (-, *)
 - Add headings( # > ## > ###....) before items.
 - Add link wrap text in [] bracket and link in ()
