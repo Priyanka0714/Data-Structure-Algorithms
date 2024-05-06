@@ -24,10 +24,17 @@
    9. [Count no of pairs with abs diff k](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/submissions/)
       
 3. ### Two pointer
-   ##### 1- One slow-runner and the other fast-runner. Eg-1 (while(r<n) If condition right r+=1 else l+=1 update num[l] return l or l+1)
-   ##### 2- One pointer starts from the beginning while the other pointer starts from the end. Eg-3 Swap l++, r- - ;
+   ##### Case1- One slow-runner and the other fast-runner. Eg-1 (while(r<n) If condition right r+=1 else l+=1 update num[l] return l or l+1). Case2- One pointer starts from the beginning while the other pointer starts from the end. Eg-3 Swap l++, r- - ;
    1. [Two-pointer-Technique](https://leetcode.com/articles/two-pointer-technique/
-   1. hjjjk
+   2. [Remove Duplicates from Sorted Array (Imp)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+   3. [Remove Duplicates from Sorted Array II(Imp)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/1187796672/?envType=study-plan-v2&envId=top-interview-150)
+   4. [Reverse a Word in a String (Imp concept) ](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1186330470/)
+   5. [Reverse Words in a String II](https://ide.geeksforgeeks.org/online-java-compiler/f5d7fdac-f0b0-4e6e-b583-78c98e8b3234)
+   6. [Rotate Array](https://leetcode.com/problems/rotate-array/)
+   7. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+   8. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+   9. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+   10. [Majority Element](https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150)
 5. ### Sliding Window
 6. ### String
 1. ### Searching
