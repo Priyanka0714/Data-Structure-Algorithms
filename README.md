@@ -24,10 +24,11 @@
    9. [Count no of pairs with abs diff k](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/submissions/)
       
 3. ### Two pointer
+   #### dfghjk
    1. hjk
    1. hjjjk
-4. ### Sliding Window
-5. ### String
+5. ### Sliding Window
+6. ### String
 1. ### Searching
 1. ### Sorting
 1. ### STL
