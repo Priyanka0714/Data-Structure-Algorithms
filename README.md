@@ -25,7 +25,7 @@
       
 3. ### Two pointer
    ##### Case1- One slow-runner and the other fast-runner. Eg-1 (while(r<n) If condition right r+=1 else l+=1 update num[l] return l or l+1). Case2- One pointer starts from the beginning while the other pointer starts from the end. Eg-3 Swap l++, r- - ;
-   1. [Two-pointer-Technique](https://leetcode.com/articles/two-pointer-technique/
+   1. [Two-pointer-Technique](https://leetcode.com/articles/two-pointer-technique/)
    2. [Remove Duplicates from Sorted Array (Imp)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
    3. [Remove Duplicates from Sorted Array II(Imp)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/1187796672/?envType=study-plan-v2&envId=top-interview-150)
    4. [Reverse a Word in a String (Imp concept) ](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1186330470/)
