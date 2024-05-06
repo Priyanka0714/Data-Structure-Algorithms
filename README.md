@@ -13,9 +13,15 @@
 ## DSA Topics
 
 1. ### Hashing   
-   1. Frequency of an element in an array(sorted array)  [Solution](https://ide.geeksforgeeks.org/online-java-compiler/8da766d7-211e-4225-b2ec-f3afd1eb5c4b)
+   1. Frequency of an element in an array(sorted array) [Solution](https://ide.geeksforgeeks.org/online-java-compiler/8da766d7-211e-4225-b2ec-f3afd1eb5c4b)
    2. [Majority Element(Imp)](https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150)
-   1. Target sum (a+b = x)
+   3. [Target sum (a+b = x)](https://leetcode.com/problems/two-sum/submissions/)
+   4. [Array with repeated elements,find max distance b/w two occurrences of an element.](https://practice.geeksforgeeks.org/problems/max-distance-between-same-elements/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
+   5. [First unique character in a string print index ](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/)
+   6. [Find common Character](https://leetcode.com/problems/find-common-characters/submissions/)
+   7. [Longest consecutive sequence ](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+   8. [ Largest subarray with 0 sum ](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
+   9. [Count no of pairs with abs diff k](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/submissions/)
       
 2. ### Two pointer
    1. hjk
