@@ -12,7 +12,8 @@
 
 ## DSA Topics
 
-1. ### Hashing  
+1. ### Hashing
+1.1 Hashing is a technique of mapping keys, and values into the hash table by using a hash function.It is done for faster access to elements.Store data. 
    1. Frequency of an element in an array(sorted array) [Solution](https://ide.geeksforgeeks.org/online-java-compiler/8da766d7-211e-4225-b2ec-f3afd1eb5c4b)
    2. [Majority Element(Imp)](https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150)
    3. [Target sum (a+b = x)](https://leetcode.com/problems/two-sum/submissions/)
