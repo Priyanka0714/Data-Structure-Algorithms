@@ -46,6 +46,8 @@
 1. ### Linkedlist
 1. ### Recursion
 1. ### Greedy
+   ##### An approach for solving a problem by selecting the best option available at the moment. OR An algorithm that finds a solution in the shortest time possible.
+   1. [Greedy Concept](https://hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
 1. ### Binary tree
 1. ### BST
 1. ### Dynamic Programming
