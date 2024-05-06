@@ -14,6 +14,7 @@
 
 1. ### Hashing   
    1. Frequency of an element in an array(sorted array)  [Solution](https://ide.geeksforgeeks.org/online-java-compiler/8da766d7-211e-4225-b2ec-f3afd1eb5c4b)
+   2. [Majority Element(Imp)](https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150)
    1. Target sum (a+b = x)
       
 2. ### Two pointer
