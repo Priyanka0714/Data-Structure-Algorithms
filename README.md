@@ -24,8 +24,9 @@
    9. [Count no of pairs with abs diff k](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/submissions/)
       
 3. ### Two pointer
-   #### dfghjk
-   1. hjk
+   ##### 1- One slow-runner and the other fast-runner. Eg-1 (while(r<n) If condition right r+=1 else l+=1 update num[l] return l or l+1)
+   ##### 2- One pointer starts from the beginning while the other pointer starts from the end. Eg-3 Swap l++, r- - ;
+   1. [Two-pointer-Technique](https://leetcode.com/articles/two-pointer-technique/
    1. hjjjk
 5. ### Sliding Window
 6. ### String
