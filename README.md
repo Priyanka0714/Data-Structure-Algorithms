@@ -1,8 +1,10 @@
 # Data-Structure-Algorithms
-
+1. Hashing, Two pointer, SW, String, Searching, Sorting, STL, Stack, Queue, LL, Recursion,
+1. Greedy, Binary tree, BST, DP, Heap, Graph, Bit manipulation, Tries, Backtracking
 - Add numbered list(1. item1, 1. item2 ....) | bullets (-, *)
 - Add headings( # > ## > ###....) before items.
 - Add link wrap text in [] bracket and link in ()
+- Add link using in[] brackt text to show in () url like [hello](url)
 
 ## Places to Find Interview Experiences
 1. [Geeksforgeeks](https://www.geeksforgeeks.org/company-interview-corner/?ref=ghm)
@@ -10,15 +12,32 @@
 
 ## DSA Topics
 
-1. ### Hashing   
-   1. Frequency of an element in an array(sorted array)  [Solution](https://ide.geeksforgeeks.org/online-java-compiler/8da766d7-211e-4225-b2ec-f3afd1eb5c4b)
-   1. Target sum (a+b = x)
+1. ### Hashing
+   ##### Hashing is a technique of mapping keys, and values into the hash table by using a hash function. It is done for faster access to elements.Store data.
+   1. Frequency of an element in an array(sorted array) [Solution](https://ide.geeksforgeeks.org/online-java-compiler/8da766d7-211e-4225-b2ec-f3afd1eb5c4b)
+   2. [Majority Element(Imp)](https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150)
+   3. [Target sum (a+b = x)](https://leetcode.com/problems/two-sum/submissions/)
+   4. [Array with repeated elements,find max distance b/w two occurrences of an element.](https://practice.geeksforgeeks.org/problems/max-distance-between-same-elements/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
+   5. [First unique character in a string print index ](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/)
+   6. [Find common Character](https://leetcode.com/problems/find-common-characters/submissions/)
+   7. [Longest consecutive sequence ](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+   8. [ Largest subarray with 0 sum ](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
+   9. [Count no of pairs with abs diff k](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/submissions/)
       
-2. ### Two pointer
-   1. hjk
-   1. hjjjk
-3. ### Sliding Window
-4. ### String
+3. ### Two pointer
+   ##### Case1- One slow-runner and the other fast-runner. Eg-1 (while(r<n) If condition right r+=1 else l+=1 update num[l] return l or l+1). Case2- One pointer starts from the beginning while the other pointer starts from the end. Eg-3 Swap l++, r- - ;
+   * [Two-pointer-Technique](https://leetcode.com/articles/two-pointer-technique/)
+   1. [Remove Duplicates from Sorted Array (Imp)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+   1. [Remove Duplicates from Sorted Array II(Imp)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/1187796672/?envType=study-plan-v2&envId=top-interview-150)
+   1. [Reverse a Word in a String (Imp concept) ](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1186330470/)
+   1. [Reverse Words in a String II](https://ide.geeksforgeeks.org/online-java-compiler/f5d7fdac-f0b0-4e6e-b583-78c98e8b3234)
+   1. [Rotate Array](https://leetcode.com/problems/rotate-array/)
+   1. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+   1. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+   1. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+   1. [Majority Element](https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150)
+5. ### Sliding Window
+6. ### String
 1. ### Searching
 1. ### Sorting
 1. ### STL
@@ -27,6 +46,10 @@
 1. ### Linkedlist
 1. ### Recursion
 1. ### Greedy
+   ##### An approach for solving a problem by selecting the best option available at the moment. OR An algorithm that finds a solution in the shortest time possible.
+   * [Greedy Concept](https://hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
+   1. ghjk
+   2. ghjk
 1. ### Binary tree
 1. ### BST
 1. ### Dynamic Programming
@@ -58,7 +81,10 @@
 1. add files(changes) using + 
 1. now add some message and press commit button
 
-
+##PUSH First VSCode Project to git
+1. create a new repo on git and create a new folder in local and open gitbash in location
+1. Git clone repo
+1. open repo in vscode, create a new react app in repo location, now commit push
 
 
 
