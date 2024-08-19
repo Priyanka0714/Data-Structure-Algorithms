@@ -1,5 +1,6 @@
 
 ## 4 bigger categories of TWO-POINTER
+Marked the typical example problems with (*)
 1. ### Running from both ends of an array
 * #### 2 Sum problem
    1. (*) (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
@@ -46,6 +47,53 @@
    1. (https://leetcode.com/problems/sentence-similarity-iii/)
    1. (https://leetcode.com/problems/find-k-closest-elements/)
    1. (https://leetcode.com/problems/shortest-distance-to-a-character/)
+
 2. ### Slow & Fast Pointers
+Next type is using two pointers with different speed of movement. Typically they starts from the left end, then the first pointer advances fast and give some feedback to the slow pointer and do some calculation.
+
+* #### Linked List Operations
+(*) (https://leetcode.com/problems/linked-list-cycle/)
+(https://leetcode.com/problems/linked-list-cycle-ii/)
+(https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+(https://leetcode.com/problems/rotate-list/)
+(https://leetcode.com/problems/reorder-list/)
+(https://leetcode.com/problems/palindrome-linked-list/)
+
+* #### Cyclic Detection
+(*) (https://leetcode.com/problems/find-the-duplicate-number/)
+(https://leetcode.com/problems/circular-array-loop/)
+
+* #### Sliding Window/Caterpillar Method
+(*) (https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)
+(https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
+(https://leetcode.com/problems/moving-stones-until-consecutive-ii/)
+(https://leetcode.com/problems/count-pairs-of-nodes/)
+(https://leetcode.com/problems/count-binary-substrings/)
+(https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+
+* #### Rotation
+(*) (https://leetcode.com/problems/rotating-the-box/)
+(https://leetcode.com/problems/rotate-array/)
+
+* #### String
+(*) (https://leetcode.com/problems/string-compression/)
+(https://leetcode.com/problems/last-substring-in-lexicographical-order/)
+
+* #### Remove Duplicate
+(*) (https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+(https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+(https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+(https://leetcode.com/problems/duplicate-zeros/)
+
+* #### Others
+(https://leetcode.com/problems/statistics-from-a-large-sample/)
+(https://leetcode.com/problems/partition-labels/)
+(https://leetcode.com/problems/magical-string/)
+(https://leetcode.com/problems/friends-of-appropriate-ages/)
+(https://leetcode.com/problems/longest-mountain-in-array/)
+(https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)
+
+
 3. ### Running from beginning of 2 arrays / Merging 2 arrays
+
 4. ### Split & Merge of an array / Divide & Conquer
