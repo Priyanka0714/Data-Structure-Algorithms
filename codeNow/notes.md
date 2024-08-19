@@ -1,7 +1,7 @@
 
 ## 4 bigger categories of TWO-POINTER
 1. ### Running from both ends of an array
-   - 2 Sum problem
+   * #### 2 Sum problem
    1. (*) (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
    1. (https://leetcode.com/problems/3sum/)
    1. (https://leetcode.com/problems/4sum/)
