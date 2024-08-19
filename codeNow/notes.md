@@ -1,7 +1,7 @@
 
 ## 4 bigger categories of TWO-POINTER
 Marked the typical example problems with (*)
-1. ### Running from both ends of an array
+### 1. Running from both ends of an array
 * #### 2 Sum problem
    1. (*) (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
    1. (https://leetcode.com/problems/3sum/)
@@ -48,7 +48,7 @@ Marked the typical example problems with (*)
    1. (https://leetcode.com/problems/find-k-closest-elements/)
    1. (https://leetcode.com/problems/shortest-distance-to-a-character/)
 
-2. ### Slow & Fast Pointers
+### 2. Slow & Fast Pointers
 Next type is using two pointers with different speed of movement. Typically they starts from the left end, then the first pointer advances fast and give some feedback to the slow pointer and do some calculation.
 
 * #### Linked List Operations
@@ -94,6 +94,50 @@ Next type is using two pointers with different speed of movement. Typically they
 1. (https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)
 
 
-3. ### Running from beginning of 2 arrays / Merging 2 arrays
+### 3. Running from beginning of 2 arrays / Merging 2 arrays
+In this category, you will be given 2 arrays or lists, then have to process them with individual pointers.
 
-4. ### Split & Merge of an array / Divide & Conquer
+* #### Sorted arrays
+1. (*) (https://leetcode.com/problems/merge-sorted-array/)
+1. (https://leetcode.com/problems/heaters/)
+1. (https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
+
+* #### Intersections/LCA like
+1. (*) (https://leetcode.com/problems/intersection-of-two-linked-lists/)
+1. (https://leetcode.com/problems/intersection-of-two-arrays/)
+1. (https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+
+* #### SubString
+1. (*) (https://leetcode.com/problems/implement-strstr/)
+1. (https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
+1. (https://leetcode.com/problems/long-pressed-name/)
+1. (https://leetcode.com/problems/longest-uncommon-subsequence-ii/)
+1. (https://leetcode.com/problems/compare-version-numbers/)
+1. (https://leetcode.com/problems/camelcase-matching/)
+1. (https://leetcode.com/problems/expressive-words/)
+
+* #### Median Finder
+1. (*)(https://leetcode.com/problems/find-median-from-data-stream/)
+
+* #### Meet-in-the-middle / Binary Search
+1. (*) (https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
+1. (https://leetcode.com/problems/closest-subsequence-sum/)
+1. (https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/)
+1. (https://leetcode.com/problems/3sum-closest/)
+1. (https://leetcode.com/problems/valid-triangle-number/)
+
+* #### Others
+1. (https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+1. (https://leetcode.com/problems/most-profit-assigning-work/)
+1. (https://leetcode.com/problems/largest-merge-of-two-strings/)
+1. (https://leetcode.com/problems/swap-adjacent-in-lr-string/)
+
+
+### 4. Split & Merge of an array / Divide & Conquer
+The last one is similiar to previous category but there is one thing is added. First, you need to split the given list into 2 separate lists and then do two pointers approach to merge or unify them. There aren't many tasks here.
+
+* #### Partition
+1. (*) (https://leetcode.com/problems/partition-list/)
+
+* #### Sorting
+1. (*) (https://leetcode.com/problems/sort-list/)
