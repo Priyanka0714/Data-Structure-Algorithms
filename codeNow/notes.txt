@@ -1,7 +1,3 @@
-## Places to Find Interview Experiences
-1. [Geeksforgeeks](https://www.geeksforgeeks.org/company-interview-corner/?ref=ghm)
-1. [Leetcode Interview Discussion Section](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
-
 
 ## 4 bigger categories of TWO-POINTER
 1. ### Running from both ends of an array
