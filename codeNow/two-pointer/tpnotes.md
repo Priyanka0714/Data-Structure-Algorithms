@@ -5,8 +5,6 @@ Marked the typical example problems with (*)
 ##### Case1- One slow-runner and the other fast-runner. Eg-1 (while(r less n) If condition right r+=1 else l+=1 update num[l] return l or l+1). 
 ##### Case2- One pointer starts from the beginning while the other pointer starts from the end. Eg-3 Swap l++, r- - ;
 
-### 1. Running from both ends of an array
->>>>>>> 8d93f0171e9930874d7f145b222fae901a37f851:codeNow/notes.md
 * #### 2 Sum problem
    1. (*) (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
    1. (https://leetcode.com/problems/3sum/)
