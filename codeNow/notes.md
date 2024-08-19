@@ -1,7 +1,7 @@
 
 ## 4 bigger categories of TWO-POINTER
 1. ### Running from both ends of an array
-   * #### 2 Sum problem
+* #### 2 Sum problem
    1. (*) (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
    1. (https://leetcode.com/problems/3sum/)
    1. (https://leetcode.com/problems/4sum/)
@@ -12,7 +12,7 @@
    1. (https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
    1. (https://leetcode.com/problems/3sum-with-multiplicity/)
 
-   * Trapping Water
+* #### Trapping Water
    1. (*) (https://leetcode.com/problems/trapping-rain-water/) 
    1. (https://leetcode.com/problems/container-with-most-water/)
 
@@ -21,7 +21,7 @@
    1. (https://leetcode.com/problems/next-greater-element-iii/)
    1. (https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/)
 
-   * Reversing / Swapping
+* #### Reversing / Swapping
    1. (https://leetcode.com/problems/valid-palindrome/)
    1. (*) (https://leetcode.com/problems/reverse-string/)
    1. (https://leetcode.com/problems/reverse-vowels-of-a-string/)
@@ -39,7 +39,7 @@
    1. (https://leetcode.com/problems/reverse-words-in-a-string/)
    1. (https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 
-   * Others
+* #### Others
    1. (https://leetcode.com/problems/bag-of-tokens/)
    1. (https://leetcode.com/problems/di-string-match/)
    1. (https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
