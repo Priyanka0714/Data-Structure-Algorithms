@@ -1,7 +1,7 @@
 
 ## 4 bigger categories of TWO-POINTER
 Marked the typical example problems with (*)
-### 1. Running from both ends of an array
+### 1. Running from both ends of an array(swap l++, r--)
 * #### 2 Sum problem
    1. (*) (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
    1. (https://leetcode.com/problems/3sum/)
@@ -48,7 +48,7 @@ Marked the typical example problems with (*)
    1. (https://leetcode.com/problems/find-k-closest-elements/)
    1. (https://leetcode.com/problems/shortest-distance-to-a-character/)
 
-### 2. Slow & Fast Pointers
+### 2. Slow & Fast Pointers (while r less n if cond T r+=1 else l+=1 update num[l] return l or l+1)
 Next type is using two pointers with different speed of movement. Typically they starts from the left end, then the first pointer advances fast and give some feedback to the slow pointer and do some calculation.
 
 * #### Linked List Operations
